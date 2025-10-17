@@ -4,7 +4,7 @@
 
 ---
 
-## 🕹️ How to Play
+## 🕹️ How to Play:
 
 1. Wait for a number to appear.
 2. Press the correct key:
